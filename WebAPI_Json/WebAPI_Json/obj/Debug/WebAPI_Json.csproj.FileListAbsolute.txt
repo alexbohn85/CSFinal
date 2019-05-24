@@ -1,0 +1,10 @@
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/bin/Debug/WebAPI_Json.exe.config
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/bin/Debug/WebAPI_Json.exe
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/bin/Debug/WebAPI_Json.pdb
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/bin/Debug/Newtonsoft.Json.dll
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/bin/Debug/Newtonsoft.Json.xml
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/obj/Debug/WebAPI_Json.csprojAssemblyReference.cache
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/obj/Debug/WebAPI_Json.csproj.CoreCompileInputs.cache
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/obj/Debug/WebAPI_Json.csproj.CopyComplete
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/obj/Debug/WebAPI_Json.exe
+/Users/alex.bohn/Documents/alexbohn85@github.com/CSFinal/WebAPI_Json/WebAPI_Json/obj/Debug/WebAPI_Json.pdb
